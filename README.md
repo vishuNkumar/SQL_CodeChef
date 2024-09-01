@@ -81,6 +81,7 @@ This repository contains all the learning materials, exercises, and projects rel
    - Project - Average and Conditional Sum
    - Project - Group By with Aggregate Function
    - Project - Group By with Having Clause
+![Learn SQL_page-0001](https://github.com/user-attachments/assets/fc7991a8-69a4-4d3c-8e80-7e387bacc179)
 
    
    
