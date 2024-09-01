@@ -14,7 +14,7 @@ This repository contains all the learning materials, exercises, and projects rel
 - Having
 - Practice project: Student database
 ## Learning So Far...
-### Week 1
+### Day 1
  - ### Geeting started with SQL
    First query in SQL and learn the building blocks to access, create, update a database.
    - Introduction
@@ -37,7 +37,7 @@ This repository contains all the learning materials, exercises, and projects rel
    - Practice - Update Single Record
    - Practice - Delete Single Record
    - Practice - Create Table with Constraints
-### Week 2
+### Day 2
  - ### Queries
    Solve queries by leaning basic syntax
    - Introduction to Queries
@@ -63,7 +63,7 @@ This repository contains all the learning materials, exercises, and projects rel
    - Project - Sort Results using Order by
    - Project - Filter Null Values
    - Project - Debug this query
-### Week 3
+### Day 3
  - ### Functions
    Perform intermediate database operations using aggregate functions
    - Rename columns using As
