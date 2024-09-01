@@ -1,4 +1,4 @@
-# SQL_CodeChef
+# SQL_Programming by CodeChef
 This repository contains all the learning materials, exercises, and projects related to the SQL Programming course offered by CodeChef. The course focuses on building a strong foundation in SQL (Structured Query Language) and equips learners with the skills needed to manage and query databases efficiently.
 ## Course Overview
 - Introduction to SQL - Creating a table
